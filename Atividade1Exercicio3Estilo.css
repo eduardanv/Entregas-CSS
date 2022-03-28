@@ -1,0 +1,36 @@
+.divA{
+
+    background-color:#c60e8f;
+    width:100%;
+    height:100%;
+} 
+
+.divB{
+    background-color:#8474e8;
+    width:100px;
+    height:100px;
+}
+
+.p{
+    color:rgb(255, 255, 255); 
+    background-color:rgb(75, 0, 42); 
+    font-size:30px; 
+    font-family:Impact; 
+    font-weight:600px;
+    width: 75px; 
+    height: 50vh; 
+    
+
+}
+
+.divD {
+    width: 75px; 
+    height: 40vh; 
+    background-color:rgb(149, 232, 212);
+}
+
+.divE {
+    width:30vw; 
+    height:78%;
+     background-color:rgb(116, 0, 0)
+}
